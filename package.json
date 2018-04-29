@@ -1,7 +1,10 @@
 {
   "name": "clean-icon-and-thumb-cache",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Cli toolkit for clean windows 10 icon & thumb cache",
+  "engines": {
+    "node": ">6"
+  },
   "bin": {
     "clean-cache": "./index.js"
   },
