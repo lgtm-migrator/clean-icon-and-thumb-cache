@@ -23,4 +23,4 @@ Enjoy correct icon & thumb on windows now
 C:\Users\theos\repo\clean-icon-and-thumb-cache>
 ```
 
-## [license](./LICENSE)
+## [LICENSE](./LICENSE)
