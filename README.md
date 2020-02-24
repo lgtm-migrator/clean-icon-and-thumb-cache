@@ -1,4 +1,6 @@
-# clean-icon-and-thumb-cache
+# clean icon & thumb cache for windows 10
+
+![Node CI](https://github.com/Soontao/clean-icon-and-thumb-cache/workflows/Node%20CI/badge.svg)
 
 Cli toolkit for clean **windows 10** icon & thumb cache
 
